@@ -8,6 +8,7 @@ Projekt obejmuje:
 - Aplikację służącą do podglądu strony mobilnej
 
 Autorzy:
+
 Maciej Zieliński 
 
 Maciej Kajda
