@@ -1,0 +1,1 @@
+# Aplikacja-do-podgl-du-strony-mobilnej
