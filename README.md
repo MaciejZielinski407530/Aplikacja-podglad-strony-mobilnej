@@ -1,4 +1,5 @@
 **Projekt Aplikacji do podgladu strony mobilnej**
+
 Przedmiot: Kierunki Rozwoju Telekomunikacji
 Akademia Górniczo-Hutnicza w Krakowie
 
@@ -8,5 +9,7 @@ Projekt obejmuje:
 
 Autorzy:
 Maciej Zieliński 
+
 Maciej Kajda
+
 Bartosz Żołądź
